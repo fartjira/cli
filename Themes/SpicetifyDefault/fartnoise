@@ -1,0 +1,1 @@
+git clone https://github.com/Chrisss666/kpop-theme.git "$(spicetify -c | xargs dirname)/Themes/kpop-theme"
